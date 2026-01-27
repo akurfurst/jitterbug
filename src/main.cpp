@@ -35,5 +35,6 @@ int main(){
 
         rng.update();
         bn::core::update();
+        
     }
 }
